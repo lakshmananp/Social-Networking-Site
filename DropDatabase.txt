@@ -1,0 +1,8 @@
+drop table post_comment;
+drop table post;
+drop table friendship;
+drop table event;
+drop table addr;
+drop table member;
+drop table addr;
+drop table requests;
